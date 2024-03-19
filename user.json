@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            
+            "username":"Shweta",
+            "password":"111"
+        },
+        {
+           
+            "username":"Rohit",
+            "password":"222"
+        },
+        {
+            "username":"Pallavi",
+            "password":"333"
+        },
+        {
+            "username":"Ruchika",
+            "password":"444"
+        },
+        {
+            "username":"Sanya",
+            "password":"555"
+        }
+    ]
+}
